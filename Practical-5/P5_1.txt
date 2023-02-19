@@ -1,0 +1,6 @@
+EId      Name      Designation      Salary
+1        Raj       Manager          50,000
+2        Sanjay    HR               60,000
+3        Rajat     Salesman         30,000
+4        Shivani   Marketing Head   45,000
+5        Garima    Senior Developer 40,000
